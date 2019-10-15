@@ -1,0 +1,70 @@
+• I have used Page Object Model framework to automate the test cases.
+• Separate classes are created to store all the objects and the actions that are applied on those objects.
+• The web locators and the methods are kept separate from the test scripts
+• For this, I have created two directories - Pages and Tests
+• Pages directory contains all the classes of the pages. In our website, it is only one page.
+• Tests directory contains all the tests
+• This test can be run from the command line as well by following the below stpes.
+        > Saving the file on your local machine
+        > Open command window on Windows machine or terminal on Mac machine
+        > Go to this file path
+        > Use the command - python <file name>.py
+
+Source:
+https://agoldoffish.wordpress.com/criminal-minds-opening-and-closing-quotes
+
+Author Name:
+Gideon
+
+Quotes: (51)
+“The belief in a supernatural source of evil is not necessary. Men alone are quite capable of every wickedness.”
+“All is riddle, and the key to a riddle is another riddle.”
+“The farther backward you can look, the farther forward you will see.”
+“When you look long into an abyss, the abyss looks into you.”
+“Don’t bother just to be better than your contemporaries or predecessors.  Try to be better than yourself.”
+“There are certain clues at a crime scene which, by their very nature, do not lend themselves to being collected or examined.  How does one collect love, rage, hatred, fear…?  These are things that we’re trained to look for.”
+“Imagination is more important than knowledge.  Knowledge is limited; imagination encircles the world.”
+“Almost all absurdity of conduct arises from the imitation of those who we cannot resemble.”
+“Don’t forget that I cannot see myself, that my role is limited to being the one who looks in the mirror.”
+“Birds sing after a storm; why shouldn’t people feel as free to delight in whatever sunlight remains to them?”
+“When a good man is hurt, all who would be called good must suffer with him.”
+“When love is in excess it brings a man no honor nor worthiness.”
+“The irrationality of a thing is not an argument against its existence, rather a condition of it.”
+“With foxes we must play the fox.”
+“There is no hunting like the hunting of man; and those who have hunted armed men long enough and liked it never really care for anything else.”
+“The healthy man does not torture others.  Generally, it is the tortured who turn into torturers.”
+“A belief is not merely an idea the mind possesses; it is an idea that possesses the mind.”
+“Unfortunately, a super abundance of dreams is paid for by a growing potential for nightmares.”
+“Ideology separates us.  Dreams and anguish bring us together.”
+“The bitterest tears shed over graves are for words left unsaid and deeds left undone.”
+“Evil is unspectacular, and always human, and shares our bed and eats at our table.'”
+“Measure not the work until the day’s out and the labor done.” Elizabeth Barrett Browning.
+“What is food to one, is to others bitter poison.”
+“Before you embark on a journey of revenge, dig two graves.”
+Gideon's own quote - “Who so sheddeth man’s blood, by man shall his blood be shed. Genesis 9:6.”
+“What we do for ourselves dies with us.  What we do for others and the world remains and is immortal.”
+“It is those we live with and love and should know who elude us.”
+“Murder is unique in that it abolishes the party it injures, so that society must take the place of the victim and on his behalf demand atonement or grant forgiveness.”
+“Better to be violent if there’s violence in our hearts than to put on the cloak of non-violence to cover impotence.”
+“A photograph is a secret about a secret.  The more it tells you, the less you know.”
+“An American has no sense of privacy.  He does not know what it means.  There is no such thing in the country.”
+“There are some that only employ words for the purpose of disguising their thoughts.”
+“We are so accustomed to disguise ourselves to others that in the end we become disguised to ourselves.”
+“Whoever undertakes to set himself up as judge in the field of truth and knowledge is shipwrecked by the laughter of the gods.”
+“In a time of universal deceit, telling the truth is a revolutionary act.”
+“No man needs a vacation so much as the man who has just had one.”
+Gideon's own quote - “The defects and faults of the mind are like wounds in the body; after all imaginable care has been taken to heal them up, still there will be a scar left behind.”
+“The test of the morality of a society is what it does for its children.”
+“Of all the animals, man is the only one that is cruel.  He is the only one that inflicts pain for the pleasure of doing it.”
+“Although the world is full of suffering, it is full also of the overcoming of it.”
+“Crime butchers innocence to secure a prize, and innocence struggles with all its might against the attempts of crime.”
+“Some of the best lessons are learned from past mistakes.  The error of the past is the wisdom of the future.”
+“In order to learn the important lessons in life, one must, each day, surmount a fear.”
+“Evil brings men together.”
+Not a quote - “I didn’t have anything against them and they never did anything wrong to me, the way other people have all my life.  Maybe they’re just the ones who have to pay for it.”
+“From the deepest desires often come the deadliest hate.”
+“Our life is made by the death of others.”
+“Tragedy is a tool for the living to gain wisdom, not a guide by which to live.”
+“One man’s wilderness is another man’s theme park.”  Author unknown.
+“Nothing is permanent in this wicked world— not even our troubles.”
+“I choose my friends for their good looks, my acquaintances for their good characters, and my enemies for their good intellect.” Oscar Wilde.
