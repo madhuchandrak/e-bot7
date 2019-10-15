@@ -4,6 +4,7 @@
 from selenium import webdriver
 import time
 
+# For now I will not use the executable_path to access the Chrome webdriver
 driver = webdriver.Chrome("E:/Madhu Chandra K/Software Testing/Test Automation/chromedriver.exe")
 driver.implicitly_wait(2)
 #driver.maximize_window()
@@ -33,6 +34,7 @@ class Gideon(unittest.TestCase):
 
     @ classmethod
     def setUpClass(cls): # Will run after all the test methods
+    # For now I will not use the executable_path to access the Chrome webdriver
         cls.driver = webdriver.Chrome("E:/Madhu Chandra K/Software Testing/Test Automation/chromedriver.exe")
         cls.driver.implicitly_wait(2)
 
@@ -69,6 +71,7 @@ class Gideon(unittest.TestCase):
 
     @ classmethod
     def setUpClass(cls): # Will run after all the test methods
+        # For now I will not use the executable_path to access the Chrome webdriver
         cls.driver = webdriver.Chrome("E:/Madhu Chandra K/Software Testing/Test Automation/chromedriver.exe")
         cls.driver.implicitly_wait(2)
 
